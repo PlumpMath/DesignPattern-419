@@ -1,5 +1,11 @@
 package proxy;
 
+/**
+ * 
+ * @author angelwhu
+ * 追求者类，realSubject
+ */
+
 public class Pursuit implements GiveGiftInterface{
 
 	private SchoolGirl mm;
